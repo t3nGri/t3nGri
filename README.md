@@ -4,10 +4,10 @@
 
 ## 📌 Expertise:
 
-- **Digital Marketing: SEO & SEM
-- **Back-end: Python, Golang
-- **Front-end: Proficiency in JavaScript, node.js, CSS, HTML, React.js, and Nuxt.js
-- **Database Tech: Experience with MySQL - MongoDB
-- **Operating Systems: Linux Administration
+- **Back-end**: Python, Golang
+- **Front-end**: Proficiency in JavaScript, node.js, CSS, HTML, React.js, and Nuxt.js
+- **Database Tech**: Experience with MySQL - MongoDB
+- **Operating Systems**: Linux Administration
+- **Digital Marketing**: SEO & SEM
 
 
